@@ -8,7 +8,7 @@ import android.widget.TextView;
 import android.os.Bundle;
 
 
-public class HelloJni extends Activity implements OnSwitchChangedListener
+public class HelloJniActivity extends Activity implements OnSwitchChangedListener
 {
     static
     {
